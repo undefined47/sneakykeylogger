@@ -1,0 +1,31 @@
+How to use: It begins to capture keystrokes when you run it and saves the keystrokes to %APPDATA%\WinCache\cache.dat
+
+Overview:
+
+This project demonstrates how keyboard input can be captured and processed programmatically in a controlled, local testing environment. It was developed as a hands-on exercise in Python programming and cybersecurity research.
+
+Learning Objectives
+
+Understand keyboard event handling in Python.
+
+Explore how keystroke monitoring software operates.
+
+Learn about endpoint security risks and keylogger detection.
+
+Practice responsible security testing and defensive programming.
+
+Technologies
+
+Language: Python
+
+Environment: Local PC
+
+Focus: Cybersecurity, keyboard events, and endpoint security
+
+Ethical Use:
+
+This project is intended for educational purposes and authorized testing on systems you own or have explicit permission to test. Keystroke monitoring can expose sensitive information, so it should never be used to collect another person's private data without their informed consent.
+
+Disclaimer:
+
+This repository is for cybersecurity education and research. The author does not support unauthorized surveillance, credential theft, or privacy violations.
